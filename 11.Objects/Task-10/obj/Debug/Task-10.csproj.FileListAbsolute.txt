@@ -1,0 +1,6 @@
+E:\SOFT INTELLECT\C# Basics\11.Objects\Task-10\bin\Debug\Task-10.exe.config
+E:\SOFT INTELLECT\C# Basics\11.Objects\Task-10\bin\Debug\Task-10.exe
+E:\SOFT INTELLECT\C# Basics\11.Objects\Task-10\bin\Debug\Task-10.pdb
+E:\SOFT INTELLECT\C# Basics\11.Objects\Task-10\obj\Debug\Task-10.csprojResolveAssemblyReference.cache
+E:\SOFT INTELLECT\C# Basics\11.Objects\Task-10\obj\Debug\Task-10.exe
+E:\SOFT INTELLECT\C# Basics\11.Objects\Task-10\obj\Debug\Task-10.pdb

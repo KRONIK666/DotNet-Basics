@@ -1,0 +1,5 @@
+E:\SOFT INTELLECT\C# Basics\8.Numeral-Systems\Task-3\bin\Debug\Task-3.exe.config
+E:\SOFT INTELLECT\C# Basics\8.Numeral-Systems\Task-3\bin\Debug\Task-3.exe
+E:\SOFT INTELLECT\C# Basics\8.Numeral-Systems\Task-3\bin\Debug\Task-3.pdb
+E:\SOFT INTELLECT\C# Basics\8.Numeral-Systems\Task-3\obj\Debug\Task-3.exe
+E:\SOFT INTELLECT\C# Basics\8.Numeral-Systems\Task-3\obj\Debug\Task-3.pdb
