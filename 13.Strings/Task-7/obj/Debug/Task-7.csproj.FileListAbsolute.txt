@@ -1,0 +1,6 @@
+E:\SOFT INTELLECT\DotNet-Basics\13.Strings\Task-7\bin\Debug\Task-7.exe.config
+E:\SOFT INTELLECT\DotNet-Basics\13.Strings\Task-7\bin\Debug\Task-7.exe
+E:\SOFT INTELLECT\DotNet-Basics\13.Strings\Task-7\bin\Debug\Task-7.pdb
+E:\SOFT INTELLECT\DotNet-Basics\13.Strings\Task-7\obj\Debug\Task-7.exe
+E:\SOFT INTELLECT\DotNet-Basics\13.Strings\Task-7\obj\Debug\Task-7.pdb
+E:\SOFT INTELLECT\DotNet-Basics\13.Strings\Task-7\obj\Debug\Task-7.csprojResolveAssemblyReference.cache
