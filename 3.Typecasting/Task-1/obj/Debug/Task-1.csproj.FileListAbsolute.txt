@@ -1,0 +1,9 @@
+E:\SOFT INTELLECT\C# Basics\3.Typecasting\Task-1\bin\Debug\Task-1.exe.config
+E:\SOFT INTELLECT\C# Basics\3.Typecasting\Task-1\bin\Debug\Task-1.exe
+E:\SOFT INTELLECT\C# Basics\3.Typecasting\Task-1\bin\Debug\Task-1.pdb
+E:\SOFT INTELLECT\C# Basics\3.Typecasting\Task-1\obj\Debug\Task-1.csprojResolveAssemblyReference.cache
+E:\SOFT INTELLECT\C# Basics\3.Typecasting\Task-1\obj\Debug\Task-1.exe
+E:\SOFT INTELLECT\C# Basics\3.Typecasting\Task-1\obj\Debug\Task-1.pdb
+E:\SOFT INTELLECT\DotNet-Basics\3.Typecasting\Task-1\bin\Debug\Task-1.exe.config
+E:\SOFT INTELLECT\DotNet-Basics\3.Typecasting\Task-1\obj\Debug\Task-1.exe
+E:\SOFT INTELLECT\DotNet-Basics\3.Typecasting\Task-1\obj\Debug\Task-1.pdb
