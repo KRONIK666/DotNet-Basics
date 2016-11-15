@@ -1,6 +1,0 @@
-E:\SOFT INTELLECT\C# Basics\7.Arrays\Task-10.2\bin\Debug\Task-10.2.exe.config
-E:\SOFT INTELLECT\C# Basics\7.Arrays\Task-10.2\bin\Debug\Task-10.2.exe
-E:\SOFT INTELLECT\C# Basics\7.Arrays\Task-10.2\bin\Debug\Task-10.2.pdb
-E:\SOFT INTELLECT\C# Basics\7.Arrays\Task-10.2\obj\Debug\Task-10.2.csprojResolveAssemblyReference.cache
-E:\SOFT INTELLECT\C# Basics\7.Arrays\Task-10.2\obj\Debug\Task-10.2.exe
-E:\SOFT INTELLECT\C# Basics\7.Arrays\Task-10.2\obj\Debug\Task-10.2.pdb
