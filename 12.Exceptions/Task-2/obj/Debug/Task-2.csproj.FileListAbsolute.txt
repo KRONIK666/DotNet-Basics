@@ -1,0 +1,8 @@
+E:\SOFT INTELLECT\C# Basics\12.Exceptions\Task-2\bin\Debug\Task-2.exe.config
+E:\SOFT INTELLECT\C# Basics\12.Exceptions\Task-2\bin\Debug\Task-2.exe
+E:\SOFT INTELLECT\C# Basics\12.Exceptions\Task-2\bin\Debug\Task-2.pdb
+E:\SOFT INTELLECT\C# Basics\12.Exceptions\Task-2\obj\Debug\Task-2.exe
+E:\SOFT INTELLECT\C# Basics\12.Exceptions\Task-2\obj\Debug\Task-2.pdb
+E:\SOFT INTELLECT\DotNet-Basics\12.Exceptions\Task-2\bin\Debug\Task-2.exe.config
+E:\SOFT INTELLECT\DotNet-Basics\12.Exceptions\Task-2\obj\Debug\Task-2.exe
+E:\SOFT INTELLECT\DotNet-Basics\12.Exceptions\Task-2\obj\Debug\Task-2.pdb
