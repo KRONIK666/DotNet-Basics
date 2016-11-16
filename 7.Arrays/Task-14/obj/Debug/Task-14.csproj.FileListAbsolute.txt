@@ -1,0 +1,8 @@
+E:\SOFT INTELLECT\C# Basics\7.Arrays\Task-14\bin\Debug\Task-14.exe.config
+E:\SOFT INTELLECT\C# Basics\7.Arrays\Task-14\bin\Debug\Task-14.exe
+E:\SOFT INTELLECT\C# Basics\7.Arrays\Task-14\bin\Debug\Task-14.pdb
+E:\SOFT INTELLECT\C# Basics\7.Arrays\Task-14\obj\Debug\Task-14.exe
+E:\SOFT INTELLECT\C# Basics\7.Arrays\Task-14\obj\Debug\Task-14.pdb
+E:\SOFT INTELLECT\DotNet-Basics\7.Arrays\Task-14\bin\Debug\Task-14.exe.config
+E:\SOFT INTELLECT\DotNet-Basics\7.Arrays\Task-14\obj\Debug\Task-14.exe
+E:\SOFT INTELLECT\DotNet-Basics\7.Arrays\Task-14\obj\Debug\Task-14.pdb

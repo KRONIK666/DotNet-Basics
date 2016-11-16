@@ -1,0 +1,9 @@
+E:\SOFT INTELLECT\C# Basics\6.Loops\Task-3\bin\Debug\Task-3.exe.config
+E:\SOFT INTELLECT\C# Basics\6.Loops\Task-3\bin\Debug\Task-3.exe
+E:\SOFT INTELLECT\C# Basics\6.Loops\Task-3\bin\Debug\Task-3.pdb
+E:\SOFT INTELLECT\C# Basics\6.Loops\Task-3\obj\Debug\Task-3.csprojResolveAssemblyReference.cache
+E:\SOFT INTELLECT\C# Basics\6.Loops\Task-3\obj\Debug\Task-3.exe
+E:\SOFT INTELLECT\C# Basics\6.Loops\Task-3\obj\Debug\Task-3.pdb
+E:\SOFT INTELLECT\DotNet-Basics\6.Loops\Task-3\bin\Debug\Task-3.exe.config
+E:\SOFT INTELLECT\DotNet-Basics\6.Loops\Task-3\obj\Debug\Task-3.exe
+E:\SOFT INTELLECT\DotNet-Basics\6.Loops\Task-3\obj\Debug\Task-3.pdb
