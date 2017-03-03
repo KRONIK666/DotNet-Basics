@@ -1,9 +1,0 @@
-E:\SOFT INTELLECT\C# Basics\7.Arrays\Task-12\bin\Debug\Task-12.exe.config
-E:\SOFT INTELLECT\C# Basics\7.Arrays\Task-12\bin\Debug\Task-12.exe
-E:\SOFT INTELLECT\C# Basics\7.Arrays\Task-12\bin\Debug\Task-12.pdb
-E:\SOFT INTELLECT\C# Basics\7.Arrays\Task-12\obj\Debug\Task-12.csprojResolveAssemblyReference.cache
-E:\SOFT INTELLECT\C# Basics\7.Arrays\Task-12\obj\Debug\Task-12.exe
-E:\SOFT INTELLECT\C# Basics\7.Arrays\Task-12\obj\Debug\Task-12.pdb
-E:\SOFT INTELLECT\DotNet-Basics\7.Arrays\Task-12\bin\Debug\Task-12.exe.config
-E:\SOFT INTELLECT\DotNet-Basics\7.Arrays\Task-12\obj\Debug\Task-12.exe
-E:\SOFT INTELLECT\DotNet-Basics\7.Arrays\Task-12\obj\Debug\Task-12.pdb

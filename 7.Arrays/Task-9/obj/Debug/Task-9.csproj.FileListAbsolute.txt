@@ -1,9 +1,0 @@
-E:\SOFT INTELLECT\C# Basics\7.Arrays\Task-9\bin\Debug\Task-9.exe.config
-E:\SOFT INTELLECT\C# Basics\7.Arrays\Task-9\bin\Debug\Task-9.exe
-E:\SOFT INTELLECT\C# Basics\7.Arrays\Task-9\bin\Debug\Task-9.pdb
-E:\SOFT INTELLECT\C# Basics\7.Arrays\Task-9\obj\Debug\Task-9.csprojResolveAssemblyReference.cache
-E:\SOFT INTELLECT\C# Basics\7.Arrays\Task-9\obj\Debug\Task-9.exe
-E:\SOFT INTELLECT\C# Basics\7.Arrays\Task-9\obj\Debug\Task-9.pdb
-E:\SOFT INTELLECT\DotNet-Basics\7.Arrays\Task-9\bin\Debug\Task-9.exe.config
-E:\SOFT INTELLECT\DotNet-Basics\7.Arrays\Task-9\obj\Debug\Task-9.exe
-E:\SOFT INTELLECT\DotNet-Basics\7.Arrays\Task-9\obj\Debug\Task-9.pdb

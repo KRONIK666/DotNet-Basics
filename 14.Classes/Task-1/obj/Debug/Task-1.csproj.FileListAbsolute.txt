@@ -1,7 +1,0 @@
-E:\SOFT INTELLECT\C# Basics\14.Classes\Task-1\bin\Debug\Task-1.exe.config
-E:\SOFT INTELLECT\DotNet-Basics\14.Classes\Task-1\bin\Debug\Task-1.exe.config
-E:\SOFT INTELLECT\DotNet-Basics\14.Classes\Task-1\obj\Debug\Task-1.csprojResolveAssemblyReference.cache
-E:\SOFT INTELLECT\DotNet-Basics\14.Classes\Task-1\bin\Debug\Task-1.exe
-E:\SOFT INTELLECT\DotNet-Basics\14.Classes\Task-1\bin\Debug\Task-1.pdb
-E:\SOFT INTELLECT\DotNet-Basics\14.Classes\Task-1\obj\Debug\Task-1.exe
-E:\SOFT INTELLECT\DotNet-Basics\14.Classes\Task-1\obj\Debug\Task-1.pdb

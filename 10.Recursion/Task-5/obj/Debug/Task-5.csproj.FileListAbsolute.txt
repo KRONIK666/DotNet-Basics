@@ -1,8 +1,0 @@
-E:\SOFT INTELLECT\C# Basics\10.Recursion\Task-5\bin\Debug\Task-5.exe.config
-E:\SOFT INTELLECT\C# Basics\10.Recursion\Task-5\bin\Debug\Task-5.exe
-E:\SOFT INTELLECT\C# Basics\10.Recursion\Task-5\bin\Debug\Task-5.pdb
-E:\SOFT INTELLECT\C# Basics\10.Recursion\Task-5\obj\Debug\Task-5.exe
-E:\SOFT INTELLECT\C# Basics\10.Recursion\Task-5\obj\Debug\Task-5.pdb
-E:\SOFT INTELLECT\DotNet-Basics\10.Recursion\Task-5\bin\Debug\Task-5.exe.config
-E:\SOFT INTELLECT\DotNet-Basics\10.Recursion\Task-5\obj\Debug\Task-5.exe
-E:\SOFT INTELLECT\DotNet-Basics\10.Recursion\Task-5\obj\Debug\Task-5.pdb
