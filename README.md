@@ -1,2 +1,3 @@
-# DotNet-Basics
-C# Basics - Tasks and Examples
+# C# .Net Basics
+
+C# Basics - Algorithms and Examples
